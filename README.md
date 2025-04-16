@@ -49,6 +49,6 @@ We worked closely with Mr. Hitesh to get a sense of the tone of the brand and ta
 ### 📈 Results
 The outcome was a clean, easy-to-use website that clearly expresses the values and services of the business. The client has a professional online portal to promote his NDIS services, receive more enquiries, and cater to more users in Australia.
 
-**Client Testimonial**
+**Client Testimonial**  
 "**Smartscripts** did just what I had in mind—clean, professional, and spot on for the NDIS audience. The team was attentive, innovative, and dedicated to quality throughout the process."
 — **10X Digital Group** Australia
