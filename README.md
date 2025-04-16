@@ -10,6 +10,8 @@
 
 **Location:** Australia
 
+![mysc homepage](mysc.png)
+
 **Overview**
 **Mr. Hitesh Kangariya** contacted us with a dream to create a solid online presence for his **NDIS** support service business. Being an approved NDIS service provider, the client needed a professional and accessible website to showcase their values of care, support, and community inclusion.
 
