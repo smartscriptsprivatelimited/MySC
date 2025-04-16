@@ -1,9 +1,13 @@
 # My Support Coordinator
 
 **Client:** 10X Digital Group Australia
+
 **Website:** [mysc.smartscriptstech.com](https://mysc.smartscriptstech.com)
+
 **Technology Stack:** PHP, MySQL, WordPress, Elementor, Astra Theme
+
 **Industry:** Disability Services / NDIS Provider
+
 **Location:** Australia
 
 **Overview**
