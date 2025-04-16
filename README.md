@@ -1,4 +1,4 @@
-#My Support Coordinator
+# My Support Coordinator
 
 **Client:** 10X Digital Group Australia
 **Website:** [mysc.smartscriptstech.com](https://mysc.smartscriptstech.com)
